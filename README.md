@@ -1,1 +1,3 @@
 # ksi-contracts
+
+### WKSI in EVM: 0xDc5F0F2DB641B8109B40e21D029db0C4964800A9
